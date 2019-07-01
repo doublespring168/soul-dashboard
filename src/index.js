@@ -17,6 +17,7 @@ const middlewares = [];
 //   middlewares.push(logger);
 // }
 
+
 // 1. Initialize
 const app = dva({
   history: createHistory(),
